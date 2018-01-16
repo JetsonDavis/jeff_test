@@ -1,6 +1,6 @@
 Adding some text to the file!
 
-Adding some more text from the local repo
+Adding ome more text from the local repo
 
 Branch line, branch line - how you shine
 
